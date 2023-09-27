@@ -1,1 +1,1 @@
-# House-price-pridicrion
+# House-Price-Prediction
